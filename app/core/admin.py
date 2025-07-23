@@ -1,4 +1,4 @@
-from django.contrib import admin  # noqa
+
 """
 Django admin customization.
 """
